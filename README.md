@@ -16,7 +16,7 @@ If you want to customize the search terms, just add or remove words (in double q
 search_terms=( "find" "conclude" "agree" "disagree" "reject" "Section 706")
 ```
 
-## What is [grep](https://en.wikipedia.org/wiki/Grep)
+## What is [grep](https://en.wikipedia.org/wiki/Grep)?
 
 > grep is a command-line utility for searching plain-text data . . .
 
