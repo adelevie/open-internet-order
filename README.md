@@ -2,7 +2,7 @@
 
 This is a quick and dirty script for searching through the FCC's most recent [Open Internet Order](http://www.fcc.gov/document/fcc-releases-open-internet-order) for key words and phrases.
 
-I ran this and stored the results in [output.txt](https://github.com/adelevie/open-internet-order/blob/master/output.txt)`. You can run the script on your own by cloning this repo and typing the following in the terminal (works on Mac and Linux, no idea about Windows):
+I ran this and stored the results in [output.txt](https://github.com/adelevie/open-internet-order/blob/master/output.txt). You can run the script on your own by cloning this repo and typing the following in the terminal (works on Mac and Linux, no idea about Windows):
 
 ```
 ./search.sh
