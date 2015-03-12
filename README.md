@@ -8,7 +8,7 @@ I ran this and stored the results in `output.txt`. You can run the script on you
 ./search.sh
 ```
 
-This will overwrite whatever is currently in `output.txt`.
+This will overwrite whatever is currently in [output.txt](https://github.com/adelevie/open-internet-order/blob/master/output.txt).
 
 If you want to customize the search terms, just add or remove words (in double quotes) in `search_terms`. For example, to search for "Section 706":
 
