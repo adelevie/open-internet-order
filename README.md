@@ -20,6 +20,12 @@ search_terms=( "find" "conclude" "agree" "disagree" "reject" "Section 706")
 
 > grep is a command-line utility for searching plain-text data . . .
 
+## Citations
+
+`citations.sh` will use the [citation.js](https://github.com/unitedstates/citation) library to find legal citations.
+
+See citations.txt, or run it yourself.
+
 ## Further reading
 
 I also wrote up a quick guide to using grep to read a notice of proposed rulemaking: https://gist.github.com/adelevie/cd3185b960a19ecd52eb
