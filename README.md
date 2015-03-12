@@ -19,3 +19,7 @@ search_terms=( "find" "conclude" "agree" "disagree" "reject" "Section 706")
 ## What is [grep](https://en.wikipedia.org/wiki/Grep)
 
 > grep is a command-line utility for searching plain-text data . . .
+
+## Further reading
+
+I also wrote up a quick guide to using grep to read a notice of propose rulemaking: https://gist.github.com/adelevie/cd3185b960a19ecd52eb
