@@ -1,0 +1,554 @@
+See supra Section III.A.; see also, e.g., Layton Comments at 19.
+233
+See, e.g., Greenlining Institute et al. Comments at 3 (“By rejecting the Commission’s anti-blocking and anti-
+discrimination rules, the Verizon court has opened up the possibility that without the Commission’s intervention, 
+carriers will determine the winners and losers of the digital world.”); see also Verizon, 740 F.3d at 645 (finding that 
+--
+--
+that minimum level of service.
+253
+  After consideration of the record, we reject the minimum level of 
+access standard.  Broadband providers, edge providers, public interest organizations, and other parties 
+note the practical and technical difficulties associated with setting any such minimum level of access.
+--
+--
+constructing their own extensive networks that interconnect directly with the ISPs.”
+307
+  We reject this 
+argument. CDT correctly observes that “[e]stablished entities with substantial resources will always have 
+a variety of advantages” over less established ones,
+--
+--
+Parte Letter at 1-2.
+534
+See, e.g., N.E. Md. Waste Disposal Auth. v. EPA, 358 F.3d 936, 952 (D.C. Cir. 2004) (per curiam) (rejecting a 
+notice challenge when the record revealed that multiple parties had in fact anticipated the possibility of the agency’s 
+action); Alto Dairy v. Veneman, 336 F.3d 560, 570 (7th Cir. 2003) (notice adequate where industry insiders would 
+--
+--
+account when and how network management measures are applied as well as the particular network 
+architecture and technology of the broadband Internet access service in question, in determining if a 
+network management practice is reasonable.  For these reasons, we reject the argument that rules with 
+exceptions only for reasonable network management practices would “tie the hands of operators and 
+make it more challenging to meet consumers’ needs”
+--
+--
+  
+(Continued from previous page)                                                            
+Coalition Comments at 3; Meetup Comments at 7.  We reject the suggestion that the Commission promulgate 
+additional rules of conduct because it is unrealistic to expect that in this varied and rapidly evolving technological 
+environment the agency will be able to anticipate the specific conduct that will give rise to future disputes.  As for 
+--
+--
+searching and/or copying (e.g., in Microsoft Word or PDF format).  Non-text filings (e.g., Microsoft Excel) must be 
+submitted in native format.  Be certain that filings submitted in .pdf or comparable format are not locked or 
+password-protected.  If those restrictions are present (e.g., a document is locked), the ECFS system may reject the 
+filing, and a party will need to resubmit its document within the filing deadline.  The Commission will consider 
+granting waivers to this electronic filing requirement only in exceptional circumstances.  See Part 1 Order, 26 FCC 
+--
+--
+Letter in the case-specific ECFS proceeding and transmit the letter (and the complaint) via e-mail to the 
+defendant.  On the other hand, if a filed complaint does not comply with the Commission’s procedural
+rules, Enforcement Bureau staff will serve a rejection letter on the complainant and post the rejection 
+letter and related correspondence in ECFS.  Importantly, the rejection letter will not preclude the 
+complainant from curing the procedural infirmities and refiling the complaint.
+678
+--
+--
+Commission’s Fee Filer System (Fee Filer).
+678
+Enforcement Bureau staff will not assign an EB file number or a separate ECFS docket number to a rejected 
+complaint, but interested persons can locate the rejected complaint by searching for party names, dates, rule citation, 
+or other relevant ECFS search criteria.
+679
+--
+--
+680
+See infra Appx. A (revisions to § 8.13).  Parties using email service should be mindful that the Commission’s or 
+the opposing party’s computer server may reject email attachments that are too large.
+681
+See infra Appx. A (revisions to § 8.13). 
+--
+--
+Federal Communications Commission FCC 15-24
+123
+280. We reject arguments that we lack rulemaking authority to implement section 706 of the 
+1996 Act.
+715
+--
+--
+In response to parties expressing concerns that section 706 could be read to impose regulations on edge providers 
+or others in the Internet ecosystem, see, e.g., Disney et al. Reply at 2; ITIF Comments at 9-10, we emphasize that 
+today’s rules apply only to last-mile broadband providers.  We reject calls from other commenters to exercise our 
+section 706 authority to adopt open Internet regulations for edge providers. See, e.g., ACA Comments at 47-48; Cox 
+Comments at 13 (“[F]rom the Commission’s perspective, it should not make any difference whether the entity 
+--
+--
+See Hurwitz Comments at 12 (arguing that the best path forward would be to adopt general policy guidelines that 
+would be directly enforceable under the terms of section 706 through case-by-case adjudication).  Thus, for all the 
+reasons described above, we reject claims that we lack authority to enforce rules implementing section 706.  See, 
+e.g., Earl Comstock Reply at 18-33 (arguing that section 706 contained no affirmative authority for enforcement).  
+772
+--
+--
+rules.”
+846
+326. In 2010, the D.C. Circuit rejected the Commission’s attempt to enforce open Internet 
+principles based on the Commission’s Title I ancillary authority in Comcast v. FCC.
+847
+--
+--
+Brand X, 545 U.S. at 981-82.  
+859
+See Smiley v. Citibank (South Dakota), N. A., 517 U.S. 735, 741 (1996) (rejecting argument that deference should 
+be withheld because regulation was prompted by litigation); Mayo Foundation for Medical Educ. and Research v.
+U.S., 562 U.S. 44, 131 S. Ct 704, 712-13 (2011) (explaining that in United Dominion Industries, Inc. v. U.S., 532 
+--
+--
+conjunction with our reclassification decision keeps the scope of our proposed regulatory oversight within 
+the same general boundaries that the Commission earlier anticipated drawing under its Title I authority.  
+We thus reject the claims that our action here unlawfully upsets reasonable reliance interests.  In any 
+event, we provide in this ruling a compelling explanation of why changes in the marketing, pricing, and 
+sale of broadband Internet access service, as well as the technical characteristics of how the service is 
+--
+--
+  We draw 
+this conclusion based upon the common circumstances under which providers offer the service, and we 
+reject the suggestion that we must evaluate such offerings on a narrower carrier-by-carrier or geographic 
+basis.
+1009
+--
+--
+Brand X, 545 U.S. at 997-98 (quoting Stevens Report, 13 FCC Rcd at 11530, para. 60); see also Independent 
+Data Communications Manuf. Ass’n, Inc., Memorandum Opinion and Order, 10 FCC Rcd 13717, 13723, paras. 42, 
+44-45 (Com. Car. Bur. 1995) (rejecting the argument that AT&T’s bundling of enhanced protocol conversion with 
+basic frame relay service renders the whole service an enhanced service).
+1069
+--
+--
+is engaged in providing telecommunications services.”
+1090
+  We thus reject the argument that our ruling 
+impermissibly compels common carriage. 
+385. Commenters also argue that the classification of broadband Internet access service as a 
+--
+--
+Federal Communications Commission FCC 15-24
+177
+386. We also reject the argument
+1094
+that the classification of broadband Internet access service 
+--
+--
+network,” the Commission concluded that the term “public switched network” should not be defined in a 
+static way and recognized that the network is continuously growing and changing because of new 
+technology and increasing demand.  The Commission expressly rejected calls in 1994 to define the public 
+switched network as the “public switched telephone network” finding that a broader definition was 
+consistent with Congress’s decision to use the term “public switched network,” rather “than the more 
+--
+--
+Second CMRS Report and Order, 9 FCC Rcd at 1436, para. 59.  Contrary to one of the dissenting statements, 
+(Pai Dissent at 46-47 & n.337), the Commission made clear it was not limiting the term “public switched network” 
+to the traditional network.  First, as noted above, it rejected that view in favor of the position of other commenters 
+that “the network should not be defined in a static way,” an interpretation it found more consistent with the 
+determination by Congress not to employ the term “public switched telephone network.”  Second, it stated that any 
+--
+--
+  Our conclusions are not 
+premised on the assumption that regulation never harms investment, nor do we deny that deregulation 
+often promotes investment; rather, we reject assertions that reclassification will substantially diminish 
+overall broadband investment.  This is further supported by examining broadband providers’ investment 
+histories since the announcement of the Broadband Classification NOI in 2010.  While the Commission 
+--
+--
+we forbear from application of many of Title II’s provisions to broadband Internet 
+access services, and in doing so, provide the regulatory certainty necessary to continued investment and 
+innovation. We also reject the argument, set forth by the Phoenix Center, that reclassification would 
+require broadband providers “to create, and then tariff, a termination service for Internet content under 
+Section 203 of the Communications Act.”
+--
+--
+1259
+D. Judicial Estoppel Does Not Apply Here
+426. Finally, we reject the argument that we are judicially estopped from finding that 
+broadband Internet access service is a telecommunications service.  Judicial estoppel is an equitable 
+doctrine that courts may invoke at their discretion to prevent a party that prevailed on an issue in one case 
+--
+--
+judicial estoppel should not be applied here.   
+E. State and Local Regulation of Broadband Services
+430. We reject the argument that “potential state tax implications” counsel against the 
+classification of broadband Internet access service as a telecommunications service.
+1271
+--
+--
+1299
+does not 
+require the Commission to assume that burden where it forbears on its own motion, and we reject 
+suggestions to the contrary.
+1300
+--
+--
+See 47 U.S.C. § 160(a).  
+1298
+47 C.F.R. §§ 1.53-1.59.  We thus also reject criticisms of possible forbearance based on arguments that the 2014 
+Open Internet NPRM would not satisfy those rules.  See, e.g., Letter from Earl Comstock, et al. Counsel for Full 
+Service Network and TruConnect, to Marlene H. Dortch, Secretary, FCC, GN Docket No. 14-28, at 6-10, 14 (filed 
+--
+--
+reasoned decision making requirements of the APA
+1302
+and thus reject claims that broad forbearance 
+accompanying classification decisions necessarily would be arbitrary and capricious.
+1303
+--
+--
+1303
+  
+439. We reject arguments suggesting that persuasive evidence of competition is a necessary 
+prerequisite to granting forbearance under section 10 even if the section 10 criteria otherwise are met.
+1304
+--
+--
+Spiwak, President, Phoenix Center for Advanced Legal and Economic Public Policy Studies, to Marlene H. Dortch, 
+Secretary, FCC, GN Docket No. 14-28, Attach. 3 at 134-37 (filed Feb. 18, 2015).  To the extent that such comments 
+could be read to suggest different analyses in any respects, we reject them as not required by section 10, as we 
+interpret it above.
+1302
+--
+--
+take into consideration the direction of section 706.”
+1308
+  For similar reasons we reject as inconsistent with 
+the text of section 10 and our associated precedent the argument that forbearance only is appropriate when 
+the grant of forbearance will itself spur conduct that mitigates the need for the forborne-from 
+--
+--
+forbearance in the public interest under section 10(a)(3), see id., nothing in the text of section 10 makes such a 
+finding a necessary prerequisite for forbearance where the Commission can make the required findings under section 
+10(a) for other reasons.  See generally 47 U.S.C. § 160.  For similar reasons we reject the suggestion that more 
+geographically granular data or information or an otherwise more nuanced analysis are needed with respect to some 
+or all of the forbearance granted in this Order.  See, e.g., Full Service Network/TruConnect Feb. 3, 2015 Ex Parte 
+--
+--
+See supra Section III.
+1317
+See infra Section V.C.3.  We thus reject the arguments of some commenters against the application of these 
+provisions insofar as they assume that such additional regulatory requirements also will apply in the first instance.  
+See, e.g., TIA Comments at 16 (“47 C.F.R. is filled with detailed mandates (e.g., Part 64) implementing Section 201 
+--
+--
+particular end user through his or her broadband provider.
+1326
+We thus reject suggestions that market 
+forces will be sufficient to ensure that providers of broadband Internet access service do not act in a 
+manner contrary to the public interest.
+--
+--
+202 outside the open Internet context,
+1338
+although we reject calls to entirely forbear from applying 
+sections 201 and 202 outside that context or that we otherwise adopt a more granular decision regarding 
+forbearance from provisions in sections 201 and/or 202.
+--
+--
+decisions to the extent warranted.  Aeronautical Radio v. FCC, 928 F.2d 428 (D.C. Cir. 1991).
+1341
+See supra Section IV.  We thus reject claims that we somehow are using forbearance to increase regulation.  See, 
+e.g., Letter from CTIA to Marlene H. Dortch, Secretary, FCC, GN Docket No. 14-28 at 10-11 (filed Feb. 10, 2015); 
+Letter from Timothy M. Boucher, Associate General Counsel, CenturyLink, to Marlene H. Dortch, Secretary, FCC, 
+--
+--
+have authority to forbear from section 207).
+1364
+For the reasons discussed above, we thus reject the assertions of some commenters that enforcement is unduly 
+burdensome.  See, e.g., ACA Comments at 63-64 (expressing concern about unspecified “[i]ncreased legal expenses 
+and time associated with case-by-case adjudication of rates, terms, conditions of service under Section 208”).  In 
+--
+--
+See, e.g., MediaFreedom Comments at 2; TIA Comments at 17; ADTRAN Reply at 17-18; Letter from Robert 
+W. Quinn, Jr., Senior Vice President, Federal Regulatory and Chief Privacy Officer, AT&T, to Marlene H. Dortch, 
+Secretary, FCC, GN Docket No. 14-28 at 5 (filed May 9, 2014).  Consequently, we reject those arguments.  
+Federal Communications Commission FCC 15-24
+222
+--
+--
+and necessary for the protection of consumers.
+1390
+465. We also reject arguments that section 706 itself provides adequate protections such that 
+forbearance from section 222 is warranted.
+1391
+--
+--
+would not be in the public interest.
+1437
+475. We reject the cursory or generalized arguments of some commenters that we need not 
+apply these protections, or that we might defer doing so, pending further proceedings.  For the reasons 
+discussed above, with respect to broadband Internet access service the record here persuades us that the 
+--
+--
+beyond that currently in the record—should outweigh the disability access concerns identified here.
+1438
+476. We also reject arguments that section 706 itself provides adequate protections such that 
+forbearance from the disability access provisions of sections 225, 255 and 251(a)(2) and associated 
+regulations is warranted.
+--
+--
+1458
+  
+485. We also reject arguments that section 706 itself provides adequate protections such that 
+forbearance from the pole access provisions of section 224 and related regulations is warranted.
+1459
+--
+--
+these provisions of section 254 and 214(e) and our implementing rules with respect to broadband Internet 
+access service.
+487. We also reject arguments that section 706 itself provides adequate protections such that 
+forbearance from the provisions of sections 254 and 214(e) discussed above is warranted.
+1467
+--
+--
+Federal Communications Commission FCC 15-24
+239
+494. As a threshold matter, we reject arguments from certain commenters that include bare 
+assertions that we should not forbear as to particular provisions or regulations without any meaningful 
+supporting analysis or discussion under the section 10(a) framework.
+--
+--
+commenters argue for a narrower result than the forbearance we grant here, such conclusory arguments do 
+not undercut our finding that the section 10(a) criteria are met as to the forbearance granted here with 
+respect to broadband Internet access service.  For similar reasons we reject arguments that the 
+Commission should “exempt from forbearance… Section 228… provid[ing] customers with protections 
+from abusive practices by pay-per-call service providers” insofar as they do not explain how such a 
+--
+--
+These are discussed in greater detail in the context of the specific provisions or regulations below. 
+1491
+We thus reject claims to the contrary.  See generally Pai Dissent at 57-64; O’Rielly Dissent at 14.
+1492
+47 U.S.C. § 160(a)(1).
+--
+--
+706—we limit our forbearance from the relevant provisions and regulations to the context of broadband Internet 
+access service. Outside that context, they will continue to apply as they have previously, unaffected by this Order.  
+We thus reject claims that the actions or analysis  here effectively treat forborne-from provisions or regulations as 
+surplusage or that we are somehow ignoring significant portions of the Act.  See Pai Dissent at 61, 64;  O’Rielly 
+Dissent at 14-15.
+--
+--
+As explained above, we conclude that while competition can be a sufficient basis to grant forbearance, it is not 
+inherently necessary in order to find section 10 satisfied.  See supra Section V.A.  Given our assessment of the 
+advantages of the regulatory framework applied under this Order, we also reject suggestions that, where the 
+Commission does not rely on sufficient competition to justify forbearance, alternative ex ante regulations would 
+always be necessary to ensure just and reasonable conduct and otherwise provide a basis for finding the section 
+--
+--
+a large possible universe of broadband Internet access service providers, we do not find a basis to conclude that they 
+all—or a sufficiently significant number of them—are likely to be simultaneously subject to complaints to render the 
+case-by-case approach unworkable or inferior to additional bright line rules, and thus reject concerns to the contrary.  
+See Pai Dissent at 63.
+1503
+--
+--
+  Commenters do not meaningfully explain why the transparency rule is inadequate, and thus their 
+arguments do not persuade us to depart from our section 10(a) findings above in the case of section 203.
+504. We likewise reject the proposals of other commenters that we structure our forbearance 
+from section 203 to permissively, rather than mandatorily, detariff broadband Internet access service.
+1526
+--
+--
+506. We find forbearance from applying certain enforcement-related provisions of Title II 
+beyond the core Title II enforcement authority discussed above warranted under section 10(a), and we 
+reject arguments to the contrary.
+1532
+  Section 205 provides for Commission investigation of existing rates 
+--
+--
+forbearance is in the public interest under section 10(a)(3).
+1536
+  We thus reject claims that forbearance 
+from section 205, insofar as it is triggered by our classification of broadband Internet access service, is 
+not warranted.
+--
+--
+discontinuance approval requirements.
+1554
+We reject the arguments of some commenters that we should 
+not forbear, which focus in particular on concerns about discontinuances in rural areas or areas with only 
+one provider.
+--
+--
+We thus forbear from applying section 214 discontinuance requirements to the extent 
+that they would be triggered by our classification of broadband Internet access service here.
+511. We also reject arguments against forbearance from applying section 214 to enable the 
+Commission to engage in merger review.
+1561
+--
+--
+1575
+  Because we retain our authority to apply and enforce these 
+other protections, we reject commenters’ suggestion that the section 10(a) forbearance criteria are not met 
+as to sections 251 and 256.
+1576
+--
+--
+public interest under section 10(a)(3).
+1577
+514. We also reject arguments suggesting that we should not forbear from applying sections 
+251(b) and (c) with respect to broadband Internet access service.
+1578
+--
+--
+Forbearance Pursuant to 47 U.S.C. § 160(c) in the Omaha Metropolitan Statistical Area, WC Docket No. 04-223, 
+Memorandum Opinion and Order, 20 FCC Rcd 19415, 19440–42, paras. 53–56 (2005) (Qwest Omaha Forbearance 
+Order), aff’d, Qwest Corp. v. FCC, 482 F.3d 471 (D.C. Cir. 2007).  We reject claims that section 251(c) has not 
+been fully implemented “[b]ecause the Commission has never applied section 251(c) to the provision of broadband 
+Internet access service” as at odds with that precedent.  See, e.g., Full Service Network/TruConnect Feb. 3, 2015 Ex 
+--
+--
+f. Subscriber Changes (Section 258)  
+515. We also are persuaded, under the section 10(a) framework, to forbear from applying
+section 258’s prohibition on unauthorized carrier changes, and we reject suggestions to the contrary by 
+some commenters.
+1584
+--
+--
+Internet Access Service 
+537. While we address above specific arguments against forbearance as to particular 
+provisions or requirements, we note that we also reject certain overarching concerns about our 
+forbearance decision here.  For one, we grant substantial forbearance in this item, rather than deferring 
+such forbearance decisions to future proceedings.
+--
+--
+section 10(a) criteria are met with respect to the forbearance we grant, and taking such action here enables 
+us to strike the right regulatory and deregulatory balance regarding broadband Internet access service, as 
+discussed above.  Under these circumstances we reject arguments that we should defer forbearance to 
+future proceedings.
+1660
+--
+--
+1660
+  Likewise, given our finding that the section 10(a) criteria are met for the 
+forbearance adopted here, we reject generalized arguments that the scope of forbearance here should be 
+the same as that historically granted in the CMRS context.
+1661
+--
+--
+  Further, because we grant
+substantial forbearance in this Order rather than deferring those issues to a future proceeding, we also 
+reject concerns that the process of obtaining forbearance will be burdensome or uncertain, insofar as they 
+are based on a presumption that such relief only would be granted via subsequent proceedings.
+1663
+--
+--
+distinguishable from the circumstances underlying the Brand X case, where a court had classified cable modem 
+service as a telecommunications service without simultaneous forbearance of the sort we adopt here, and thus we 
+reject arguments seeking to rely on court filings there.  See, e.g., Cox Reply at 10 & n.36 (quoting Petition for a Writ 
+of Certiorari by U.S. Dept. of Justice and FCC, FCC v. Brand X Internet Servs., No. 04-281, at 25-26 (Aug. 27, 
+2004) (among other things, stating “[f]orbearance proceedings would be time-consuming and hotly contested . . . 
+--
+--
+future, should circumstances warrant.  We thus are not persuaded that there is any material, incremental 
+advantage or benefit to adopting forbearance on an interim or time-limited basis.  
+539. We also reject claims that the Commission cannot grant forbearance here because it did 
+not provide adequate notice and an opportunity for comment.
+1666
+--
+--
+See, e.g., Letter from Daniel Berninger, founder, VCXC, et al., to Marlene H. Dortch, Secretary, FCC, GN 
+Docket No. 14-28, at 5 (filed Jan. 22, 2015); Full Service Network/TruConnect Feb. 3, 2015 Ex Parte Letter at 6-11.  
+As discussed above, we also reject other asserted APA violations.  See supra Section V.A.
+1667
+As noted above, a recent court case, seemingly in dicta, suggested that forbearance is informal rulemaking, 
+--
+--
+absence of forbearance.”); Feature Group IP Petition for Forbearance From Section 251(g) of the Communications 
+Act and Sections 51.701(b)(1) and 69.5(b) of the Commission's Rules, WC Docket No. 07-256, Order on 
+Reconsideration, 25 FCC Rcd 8867, 8874, para. 12 & n.43 (2010) (rejecting arguments that the Commission should 
+have clarified whether certain requirements applied before addressing a forbearance request, and further rejecting 
+the claim that this approach was in consistent with AT&T v. FCC, explaining instead that “[i]n AT&T v. FCC, the 
+Court of Appeals for the District of Columbia Circuit faulted the Commission for failing to conduct the statutory 
+--
+--
+1738
+Southwestern Bell Telephone Co. v. FCC, 19 F.3d 1475, 1481 (D.C. Cir. 1994) (citing NARUC I, 525 F.2d at 
+644 (“Further, we reject those parts of the Orders which imply an unfettered discretion in the Commission to confer 
+or not confer common carrier status on a given entity, depending on the regulatory goals it seeks to achieve.”).
+1739
+--
+--
+                                                     
+9
+See, e.g., Greenling Institute Comments at 3 (“By rejecting the Commission’s anti-blocking and anti-
+discrimination rules, the Verizon court has opened up the possibility that without the Commission’s intervention, 
+carriers will determine the winners and losers of the digital world.”).
+--
+--
+3
+  
+And the Order goes out of its way to reject calls to forbear from section 201’s authorization of rate 
+regulation,
+4
+--
+--
+anticipating vibrant intermodal competition” were wrong.
+144
+To get to the point:  Could someone reading the Notice have anticipated the FCC might reject its 
+past proposals and tentative conclusions and instead pursue reclassification?  Perhaps.  Anything is 
+possible.  But should the public have anticipated the FCC would move forward with reclassification 
+--
+--
+Although many parties discussed Internet traffic exchange during the comment period, they did so 
+because the Notice asked if the FCC should change course and apply the Part 8 rules to IP 
+interconnection, a proposal the Order squarely rejects today.  The submissions during the comment period 
+say nothing about a Title II-based backstop—and even a cursory review of those filings shows that no 
+party anticipated the approach the Order now adopts.
+--
+--
+and is thus an interconnected service, a commercial mobile service, and a 
+telecommunications service.
+But this isn’t a new argument—the Commission squarely addressed it and rejected it seven years 
+ago.
+324
+--
+--
+334
+So it’s no wonder that when the FCC first defined “the public switched network,” it expressly 
+rejected calls to decouple that concept from the traditional public switched telephone network.  
+Commenters had asked the Commission to broaden the scope of the term to include the then-emerging 
+“network of networks.”
+--
+--
+1994 to broaden the scope of the term “the public switched network” to include the “network of networks,” or 
+otherwise separate the term entirely from the traditional public switched telephone network.  See Order at note 1145.  
+Again, this ignores that the Commission rejected those commenters’ calls to so fundamentally alter the term “the 
+public switched network” and made clear that, consistent with section 332, it was limiting the term to covering 
+services that are “interconnected with the traditional local exchange or interexchange switched network.”  CMRS 
+--
+--
+thus part of the traditional public switched telephone network.
+350
+  In doing so, the Commission rejected all 
+calls to define the terms so expansively as to include the Internet or otherwise fundamentally alter 
+them.
+--
+--
+449
+  What’s the basis for this predictive judgment?  The Order doesn’t say, although it 
+goes out of its way to “reject suggestions that market forces will be sufficient to ensure that providers of 
+broadband Internet access service and broadband subscriber access service do not act in a manner 
+contrary to the public interest.”
+--
+--
+472
+  But such reasoning implies the FCC could have 
+pretty much ignored 90% of the Telecommunications Act—rejecting Congress’s entire framework for 
+opening local markets to competition—based on the forbearance authority Congress gave the agency in 
+that same act.  That makes no sense whatsoever.
+--
+--
+15
+  
+While the FCC tailors certain statements from providers to reject assertions that Title II will 
+“substantially diminish overall broadband investment”, that doesn’t give me a lot of comfort.
+16
