@@ -24,7 +24,7 @@ search_terms=( "find" "conclude" "agree" "disagree" "reject" "Section 706")
 
 `citations.sh` will use the [citation.js](https://github.com/unitedstates/citation) library to find legal citations.
 
-See citations.txt, or run it yourself.
+See [citations.txt](https://github.com/adelevie/open-internet-order/blob/master/citations.txt), or run it yourself.
 
 ## Further reading
 
